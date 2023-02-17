@@ -17,7 +17,7 @@ yarn
 quasar dev -m pwa
 ```
 
-###Dependencies
+### Dependencies
 NodeJs
 Quasar
 MongoDB
